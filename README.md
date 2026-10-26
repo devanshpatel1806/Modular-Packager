@@ -261,6 +261,47 @@ Suggested testing activities include:
 Testing results should be documented after running the actual application.
 
 ---
+## 📸 Project Screenshots
+
+### 1. Main Menu
+Displays all 8 options available in the Multi-Utility Toolkit.
+
+![Main Menu](main_menu.png)
+
+### 2. Datetime and Time Operations
+Shows the output of date and time-related operations.
+
+![Datetime and Time Operations](datetime_operations.png)
+
+### 3. Mathematical Operations
+Shows the results of mathematical calculations.
+
+![Mathematical Operations](mathematical_operations.png)
+
+### 4. Random Data Generation
+Displays randomly generated data.
+
+![Random Data Generation](random_data_generation.png)
+
+### 5. Generate Unique Identifiers (UUID)
+Shows the generation of unique identifiers.
+
+![UUID Generation](uuid_generation.png)
+
+### 6. File Operations (Custom Module)
+Displays the output of file-handling operations.
+
+![File Operations](file_operations.png)
+
+### 7. Utility Operations (Custom Module)
+Shows the output of utility functions from the custom module.
+
+![Utility Operations](utility_operations.png)
+
+### 8. Explore Module Attributes (dir())
+Displays module attributes using Python's `dir()` function.
+
+![Module Attributes](module_attributes.png)
 
 ## ✅ Advantages
 
